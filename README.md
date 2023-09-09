@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mahmut Enes.
-- 👀 I’m interested in web and AI.
-- 🌱 I’m currently learning backend development.
+- 👀 I’m interested in web, data science and AI.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me --> linkedin.com/in/mahmutenescevik
