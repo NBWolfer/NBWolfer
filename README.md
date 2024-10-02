@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend<br><br>🙌 Techs that I'm familiar with:<br><br>- .NET Core, ASP.NET, Node.js, FastAPI<br>- Pandas, NumPy, OpenCV, PyTorch<br><br>👀 Areas that I’m looking for trouble:<br><br>- Backend<br>- Data Science <br>- AI<br>- DevOps
+🔭 I’m currently working on Backend<br><br>🙌 Techs that I'm familiar with:<br><br>- .NET Core, ASP.NET, Node.js, FastAPI<br>- Pandas, NumPy, OpenCV, PyTorch<br><br>👀 Areas that I’m looking for curiosity:<br><br>- Backend<br>- Data Science <br>- AI<br>- DevOps
 
 
 ## 🌐 Socials:
