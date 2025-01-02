@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend<br><br>🙌 Techs that I'm familiar with:<br><br>- .NET Core, ASP.NET, Node.js <br>- Pandas, NumPy, OpenCV, PyTorch<br><br>👀 Areas that I’m researching for curiosity:<br><br>- Backend<br>- Data Science <br>- AI<br>- DevOps
+🔭 I’m currently working on Backend<br><br>🙌 Techs that I'm familiar with:<br><br>- .NET Core, ASP.NET, Node.js <br>- Pandas, NumPy, OpenCV, PyTorch<br><br>👀 Areas that I’m researching for curiosity:<br><br>- Distributed Systems <br>- Data Science <br>- AI <br>- DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmutenescevik) 
 
