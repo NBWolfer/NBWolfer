@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend, System Architechture <br><br>🙌 Techs that I'm familiar with:<br><br>- Spring, .NET Core, ASP.NET, Node.js <br>- Pandas, NumPy, OpenCV, PyTorch<br><br>👀 Areas that I’m researching for curiosity:<br><br>- Distributed Systems <br>- Data Science <br>- System Architectures <br>- DevOps
+🔭 I’m currently working on Backend, System Architechture <br><br>🙌 Techs that I'm familiar with:<br><br>- Spring, .NET Core, ASP.NET, Node.js <br>- Pandas, NumPy, OpenCV, PyTorch<br><br>👀 Areas that I’m researching for curiosity:<br><br>- Distributed Systems <br>- Data Science <br>- System Architecture <br>- System Design <br>- DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmutenescevik)  <a href="https://open.spotify.com/user/x1i9db1ts8b0jbzxuieydtt68?si=5f549e97cff14e4f" target="_blank" rel="noopener noreferrer">
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
